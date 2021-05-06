@@ -138,7 +138,7 @@ Our commitment to Open Source can be found [here](https://vercel.com/oss).
 8. The development branch is `canary` (this is the branch pull requests should be made against).
    On a release, `canary` branch is rebased into `master`.
 
-## Troubleshoot
+## Troubleshoot-edit
 
 <details>
 <summary>I already own a BigCommerce store. What should I do?</summary>
